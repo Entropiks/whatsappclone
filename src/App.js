@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>Test Pull Push</h1>
+      <h1>Test Pull Push from other pc</h1>
     </div>
   );
 }
